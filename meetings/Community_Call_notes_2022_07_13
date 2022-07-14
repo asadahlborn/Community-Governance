@@ -1,0 +1,50 @@
+**IOTA Governance Meeting - Legal Entity Treasury DAO**
+
+**13/07/2022**
+
+**Information and Q&A session with crypto lawyer Dr. Biyan Meinert**
+
+
+
+* Setting up a DAO with different people involved towards a common goal, most Western jurisdictions will classify it as a general partnership.
+    * **Downside:** (Worst case scenario) Every token holder of the DAO will be personally liable for anything that may go wrong with the DAO. Although it’s quite complicated to take legal action and for example sue a DAO, this risk exists.
+* It makes sense to set up a legal wrapper of a DAO for protection for those involved, which can be anything from foundations to LLCs (in the US).
+* The most suitable legal wrapper depends on the structure of the DAO. A DAO that simply gives out grants to support the ecosystem has low risks and does not require a complex setup.
+* It is not assumed that the DAO would issue its own token etc, hence it will not be a DAO involving very high risks or needing complex setups.
+    * **Suggestion:** An easy setup that does not require everyone to do KYC. A perhaps slightly centralized entity with people prepared to be involved in the legal wrapper and represent the DAO working on behalf of other people. The risk and work of everyone involved should be minimized. 
+    * **Suggestion**: Define the goals of the DAO and who should be involved
+* The general purpose of the treasury DAO is not to create profit for the members, but to support the ecosystem by giving out grants, which makes it easier on the legal side. It could be set up as a non-profit.
+* If the treasury receives donations etc. from projects, it could be kept as a non-profit as long as the treasury itself does not give out anything to the members of the entities.
+* Non-profit status facilitates tax and regulatory topics. An entity with participation agreement etc. would not be needed for a non-profit entity. 
+    * **Suggestion**: If it is clear that it will be a charitable DAO without return all the way, it is recommended to set it up as a non-profit. However if this is expected to change, it should be a for-profit from the beginning.
+* The for-profit setup provides the certainty of limited liability. A non-profit setup does not guarantee that.
+* The key point of non-profits is that they do not generate profit to be distributed to shareholders or members. Reasonable compensation for services is possible. Capital contribution for a member is possible, for example hiring someone to do something. However, it is limited.
+* With a for-profit entity any profit earned can be distributed to tokenholders etc.
+* Need to define who should be a member of the DAO
+* Possibility of having a grant-giving committee that received a budget and acts on behald of the community with certain rules. The legal entity could involve only the committee and the community could be involved through a participation agreement without any risk or liability. In that case, only those involved in the legal entity would need to do KYC.
+* Need to take decisions regarding signatures/multisig. The approach could for example be that for spendings above a certain amount, one of the signatures should come from a smart contract connected to a vote.
+* Total expected set up cost: Can vary between 15-50K for the initial setup and the setup time can be from 3-4 weeks to 3-4 months.
+* The IOTA community is not in possession of any funds currently and would need to wait for the treasury to be able to hold funds before accessing them. 
+* Dom has agreed to cover the cost of the setup in advance for the IOTA community with the condition that he gets it back pnce tokens are released and available.
+* If a vote happens for the shimmer treasury, a Shimmer treasury with 10% of the token supply may come.
+* Whenever there are news on the vote and whether there will be a Shimmer treasury (in 1-2 weeks), we should start setting up the entity.
+* A Swiss association does not need a Swiss member but only offers liability protection if you are part of the association with an own limited liability company.
+* An option would be set up a Swiss GmbH (similar to a limited) This is more centralized, however it makes sense to have representatives to have safer limited liability.
+    * **Suggestion:** A Swiss limited would favour the needs the needs of the DAO since it is not a high-risk DAO setup.
+* Starting from next week, some events for the community will take place. We are in contact with Bankless DAOs. Bankless Consulting will introduce grant-giving DAOs and deep-dive into grant-giving. The events will take place after our usual treasury meetings.
+* Next IOTA treasury meeting, Wednesday 20/7, or the week after, we should decide how to proceed.
+* For any questions, please feel free to reach out to Biyan (@DAOLAW) on Discord.
+
+**Suggested action points:**
+
+
+
+* Define:
+    * Goals of the DAO
+    * Who should be involved?
+    * Who should be a member of the DAO?
+    * Legal setup
+    * For-profit or non-profit? Do we want flexibility to go for profit in the future?
+    * Where should the DAO be registered?
+    * Do we need separate entities?
+    * Take decisions regarding signatures/multisig
