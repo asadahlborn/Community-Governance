@@ -1,0 +1,44 @@
+# **Shimmer Governance Framework Meeting 19-07-2022**
+
+**Discussed:**
+
+Trust levels on Discourse:
+
+-    Incorporate proof of reputation to directly start at trust-level 1
+        o    Could be done with Discord/Discourse (cannot do Twitter, Reddit, Telegram yet though)
+-    Normally users get to trust-level 1 by:
+        o    Read 3 posts on Discourse
+        o    Minimum 45 min total time online on Discourse
+-    If to much spam comes in in future potentially set up a trust level 2 (rights to submit proposal)
+
+Polls and voting:
+-    Werner created proposal flowchart: [https://discord.com/channels/397872799483428865/839927402242637834/998767571052531762](https://discord.com/channels/397872799483428865/839927402242637834/998767571052531762)
+-    Changes in Governance are in the future handled as regular proposals
+        o    Start governance with a probation period (6-12 months) where moderators make rules. Later this will be decentralized/given to the community. Probation period could be ended via proposal. 
+        o    Idea: Automated dynamic voting rules (for example “average activity of past 6 months is limit for minimum votes")
+
+Phase 1
+
+-    Moderators check if proposal violates guiding principles
+-    50 likes or votes (if poll: votes, else: likes) on proposal promote it to phase 2
+
+Phase 2
+
+-    Wording must be immutable (proposal goes exactly like this into Firefly for final voting in phase 3)
+-    Proposal sits at Phase 2 at least 7 days
+        o    Chance to create counter-proposal (a modification of original proposal)
+        o    Counter proposal enters in phase 1
+        o    Has time as long as original proposal is phase 2 to get to phase 2 itself (50 votes/likes)
+        o    If it reaches 50 likes/votes -> poll run-off between both proposals starts! Winner proposal goes to phase 3
+        o    Needs 100 likes or votes to go to phase 3
+
+Phase 3
+
+-    Firefly announcements and integration
+-    5% of all token weight minimum participation
+      o    Lots of discussion regarding IOTA Foundation already owning more than that.
+      o    However looking at other DAOs not much more community involvement can be expected in governance decisions.
+
+**To do Thursday meeting 21-07-2022:**
+
+Explain the above mentioned points to the community and get things approved 
